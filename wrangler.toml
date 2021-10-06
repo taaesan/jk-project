@@ -1,0 +1,10 @@
+name = "jk-project"
+account_id = "2d59326b786efebb321624136ade29b2"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "workers-site"}
+compatibility_date = "2021-10-06"
